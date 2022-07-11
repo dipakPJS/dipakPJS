@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dipakPJS
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning PHP and Mysql
-- 💞️ I’m looking to collaborate on github
-- 📫 you can reach me with this email: deepakpokharel811@gmail.com
+- 👋 Hi, I’m Dipak Pokharel....
+- 👀 I’m interested in Full Stack Development....
+- 🌱 I’m currently learning PHP and Mysql....
+- 💞️ I’m looking to collaborate on github..
+- 📫 you can reach me with this email: deepakpokharel811@gmail.com...
 
 <!---
 I am self taught developer. I'm looking for the new oppurtunities that will help me into full stack development role. 
