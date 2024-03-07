@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/dipak-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipak-developer" height="30" width="40" /></a>
 <a href="https://fb.com/dipak.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipak.developer" height="30" width="40" /></a>
 <a href="https://instagram.com/pokharel.diwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pokharel.diwakar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dipak pokharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipak pokharel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCo3lsxVKez3usRM0J9IdFUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dipak pokharel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
